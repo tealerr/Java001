@@ -1,0 +1,5 @@
+#ignore java class files
+Java/condition/*.class
+Java/operator/*.class
+
+lib
